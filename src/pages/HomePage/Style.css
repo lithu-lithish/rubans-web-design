@@ -1,0 +1,73 @@
+/* @media (max-width: 720px) {
+  .MobileView {
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+  }
+}
+
+.column StyleImage{
+        margin-top: 8px;
+        vertical-align: middle;
+        width: 100%;
+}
+
+
+@media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+
+@media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 1280px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+   */
+/* .column ClothsContainer {
+  margin-top: 8px;
+  vertical-align: middle;
+  height: auto;
+  width: 100%;
+  margin: 10%;
+} */
+
+/* Media Queries for Desktop 
+
+@media (min-width: 768px) {
+  .column ClothsContainer {
+    width: 48%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .colum ClothsContainer {
+    width: 30%; 
+  }
+} 
+*/
+
+/* .addToCartBtn{
+padding-left:3%;
+} */
+
+
+/* @media (max-width: 600px) {
+  .column ClothsContainer {
+    min-width : 50%;
+    max-width : 50%;
+    background-color: black;
+  }
+} */
